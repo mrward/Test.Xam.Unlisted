@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Test.Xam.Unlisted</id>
+    <version>0.2.0</version>
+    <authors>mward</authors>
+    <owners>mward</owners>
+    <licenseUrl>https://github.com/mrward/</licenseUrl>
+    <projectUrl>https://github.com/mrward/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Test.Xam.Unlisted</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags></tags>
+  </metadata>
+  <files>
+    <file src="Test.Xam.Unlisted/bin/Debug/netstandard1.0/Test.Xam.Unlisted.dll 
+" target="lib/netstandard1.0" />
+  </files>
+</package>
